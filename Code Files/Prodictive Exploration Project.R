@@ -1,4 +1,3 @@
-#' ---
 #' title: "Predictive Exploration Project"
 #' author: "Yinhui Yang"
 #' date: "December 5th, 2021"
