@@ -1,8 +1,6 @@
 #' title: "Predictive Exploration Project"
 #' author: "Yinhui Yang"
 #' date: "December 5th, 2021"
-#' ---
-
 
 
 # Problem 3 Introduction:
@@ -182,4 +180,3 @@ record_price3 <- predict(price_model, house_3)
 record_price3
 
 ### The price of the last record is $343,520.8
-
