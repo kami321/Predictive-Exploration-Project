@@ -1,6 +1,5 @@
-# Predictive-Exploration-Project
+# Predictive Exploration Project
 
-(SQL, R)
+Selects appropriate variables to train the model that predicts the target using SQL and R for business clients. (SQL, R)
 
-
-Selects appropriate variables to train the model that predicts the target using SQL and R for business clients
+Author: Yinhui(Kami) Yang
