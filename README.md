@@ -16,6 +16,10 @@ We determined to remove those variables that have been deemed unnecessary from t
 
 Now is the process for developing the model after cleaning and transforming the data. We selected a linear regression model for the model because we believe it is the best fit for this situation and would tell us which variables are most important in forecasting house prices. We utilized seed number 669 and a 60/40 training validation split for the actual training. This means that 60% of the data is used to train the model, and 40% of the data is used to validate if the model is still good when presented with new data.
 
+<img width="580" alt="pic12" src="https://user-images.githubusercontent.com/81647911/158213538-e54084cf-4b3d-4dd5-8859-757b8c1c56bf.png">
+
+Correlogram:Explore the relationship between the variables
+
 ![pic 1](https://user-images.githubusercontent.com/81647911/158101526-b6045a15-e54c-42af-84b6-874019039630.png)
 
 Living room area in 2015 has the strongest relationship with price
