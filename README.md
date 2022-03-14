@@ -29,11 +29,29 @@ Living room area in 2015 has the strongest relationship with price
 We may conclude that this model is significant based on the F stat and p-value. The Adjusted R-squared is likewise rather high, at 80.87 %, indicating a reasonably strong matching. There are 10 variables that have a significant impact on price prediction: Year, bathroom, floors, waterfront, grade, sqft_basement, yr _built, yr_ renovated, zipcode, and sqft_living15 are all important factors to consider. 
 
 The RMSE of the validation set is slightly higher compared to the training set, which doesn't suggest overfitting. The RMSE is relatively low, which indicates a good model.
+
 ![pic4](https://user-images.githubusercontent.com/81647911/158102358-5a09d6dd-3756-4f99-b0ab-3a176d9a3d23.png)
 
 ![pic5](https://user-images.githubusercontent.com/81647911/158102369-73b637d0-ebdd-41e9-a0cf-cb9a507dbd99.png)
 
-###### Discussion & Evaluation
+##### Discussion & Evaluation
 Because of RMSE was low and the corrected R-squared was correspondingly high, the final model was fairly accurate. Many of these characteristics, such as grade, may be used in the actual world. A good grade indicates that the home can be sold for a greater price. Although a grading system may not have been accessible in all counties, other factors such as condition, bathroom, and zipcode are all important and can influence property pricing.
 
+### Predict new prices for new houses
 
+![pic6](https://user-images.githubusercontent.com/81647911/158102826-8a770b8e-b500-4feb-af69-9b79fcfffc68.png)
+
+![pic7](https://user-images.githubusercontent.com/81647911/158102833-3c908ba7-d280-4b20-81e8-4e6799c17de5.png)
+
+
+Predict record 1: The price of the first record is $410,910.1
+
+![pic8](https://user-images.githubusercontent.com/81647911/158102863-54035432-97ba-48cb-9331-ffb9756ae678.png)
+
+Predict record 2: The price of the second record is $331,777.3
+
+![pic9](https://user-images.githubusercontent.com/81647911/158102870-fdea77b0-c055-4cbe-b887-60959f233e28.png)
+
+Predict record 3: The price of the last record is $343,520.8
+
+![pic10](https://user-images.githubusercontent.com/81647911/158102877-cebb4552-bb3e-4060-83c8-879ffae53ec5.png)
