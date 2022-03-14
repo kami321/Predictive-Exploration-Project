@@ -18,13 +18,20 @@ Now is the process for developing the model after cleaning and transforming the 
 
 ![pic 1](https://user-images.githubusercontent.com/81647911/158101526-b6045a15-e54c-42af-84b6-874019039630.png)
 
-###### We could determine the following from the summary:
-We may conclude that this model is significant based on the F stat and p-value.
-The Adjusted R-squared is likewise rather high, at 80.87 %, indicating a reasonably strong matching. There are 10 variables that have a significant impact on price prediction: Year, bathroom, floors, waterfront, grade, sqft_basement, yr _built, yr_ renovated, zipcode, and sqft_living15 are all important factors to consider. 
+Living room area in 2015 has the strongest relationship with price
 
 
 ![pic2](https://user-images.githubusercontent.com/81647911/158101581-1b3c3dcb-845b-4713-8d3c-558dda7f2cff.png)
+
 ![pic3](https://user-images.githubusercontent.com/81647911/158101599-131e8328-8fd6-4b61-b800-5704b3792e1f.png)
+
+##### We could determine the following from the summary:
+We may conclude that this model is significant based on the F stat and p-value. The Adjusted R-squared is likewise rather high, at 80.87 %, indicating a reasonably strong matching. There are 10 variables that have a significant impact on price prediction: Year, bathroom, floors, waterfront, grade, sqft_basement, yr _built, yr_ renovated, zipcode, and sqft_living15 are all important factors to consider. 
+
+The RMSE of the validation set is slightly higher compared to the training set, which doesn't suggest overfitting. The RMSE is relatively low, which indicates a good model.
+![pic4](https://user-images.githubusercontent.com/81647911/158102358-5a09d6dd-3756-4f99-b0ab-3a176d9a3d23.png)
+
+![pic5](https://user-images.githubusercontent.com/81647911/158102369-73b637d0-ebdd-41e9-a0cf-cb9a507dbd99.png)
 
 ###### Discussion & Evaluation
 Because of RMSE was low and the corrected R-squared was correspondingly high, the final model was fairly accurate. Many of these characteristics, such as grade, may be used in the actual world. A good grade indicates that the home can be sold for a greater price. Although a grading system may not have been accessible in all counties, other factors such as condition, bathroom, and zipcode are all important and can influence property pricing.
