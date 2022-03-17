@@ -59,3 +59,4 @@ Predict record 2: The price of the second record is $331,777.3
 Predict record 3: The price of the last record is $343,520.8
 
 ![pic10](https://user-images.githubusercontent.com/81647911/158102877-cebb4552-bb3e-4060-83c8-879ffae53ec5.png)
+
