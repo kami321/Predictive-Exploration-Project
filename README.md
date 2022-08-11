@@ -2,7 +2,7 @@
 
 Selects appropriate variables to train the model that predicts the target using SQL and R for business clients. (SQL, R)
 
-Author: Yinhui(Kami) Yang
+Author: Yinhui (Kami) Yang
 
 ## Introduction 
 
