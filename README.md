@@ -4,6 +4,7 @@ Selects appropriate variables to train the model that predicts the target using 
 
 Author: Yinhui (Kami) Yang
 
+
 ## Introduction 
 
 In the multiverse of madness, on one Earth: With increasing purchasing power in King County, an ambitious NoMaj (i.e. muggle), Jacob Kawalski, decided to begin a real estate business following Queenie wishes to join the dark side. He may indeed need to be familiar with the current estate industry. We will investigate a sample from the broader dataset 'kc house data 2.csv' in order to solve this problem. We will establish and select an acceptable model for the business information from a sample, predicting real estate values in King County. The 'house 2.csv' dataset contains thousands and thousands of records from customers, including year, price, number of bathrooms, number of bedrooms, zip code, square metres, and other characteristics, etc.
